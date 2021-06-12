@@ -1,4 +1,4 @@
 # owofire
-Python based Owoifier we wrote for fun
+Python-Based Owoifier written for fun
 
-- Perhaps we'll make this prettier later?
+- Perhaps this will be prettier in the future?
